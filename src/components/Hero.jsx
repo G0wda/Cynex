@@ -11,7 +11,7 @@ function Hero() {
         <a className="primary-button" href="#about">
           Explore Department
         </a> */}
-        <h1>Coming Soon</h1>
+        <h1>Coming Soon </h1>
       </div>
     </section>
   );
